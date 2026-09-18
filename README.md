@@ -2,10 +2,10 @@
 
 <!--
 **AdiNEV01/AdiNev01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+# KhuthadzonDemana
 <div align="center">
-  <h1>Hi, I'm Adivhaho </h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+;Honours+In+Mathematics;Aspiring+Software+Engineer;Interest+In+Software+Development;;Data+Science+%26+Multi-Agent+Reinforcement+Learning" alt="Typing SVG" />
+  <h1>Hi, I'm Adi Nevondo</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Computer+Science;Hounors+In+Mathematics;Interest+In+Software+Development;;Data+%26+Software+AI+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
@@ -13,13 +13,13 @@
   <img src="https://img.shields.io/badge/BSc-Computer%20Science-38BDF8?style=for-the-badge&logo=code&logoColor=white"/>
   </div>
 <p align="center">
-  <a href="https://github.com/AdiNev01">
+  <a href="https://github.com/AdiNEV01">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="www.adivahonevondo@gmail.com">
+  <a href="www.adivhahonevondo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="#">
@@ -39,9 +39,9 @@ Frontend
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Flutter-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Flutter" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Taiwind-CSS" />
-<img src="https://img.shields.io/badge/Pandas-FFC131?style=for-the-badge&logo=tauri&logoColor=black" alt="Pandas" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black" alt="Tauri" />
 </p>
 Backend
 
@@ -87,7 +87,8 @@ alt="Neovim" />
 ---
 
 <p align="center">
-  <strong>"Machines Learning?, Humans Learning!"</strong>
+  <strong>"I build stuff when I'm not solving CDEs"</strong>
   <br/>
-  <i>~Urangani Terrence Mafunzwaini</i>
+  <i>~Adivhaho Nevondo</i>
 </p>
+
